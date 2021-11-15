@@ -1,0 +1,120 @@
+[14:40:28] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:40:29] [main/WARN]: Missing data pack Fabric Mods
+[14:40:29] [main/INFO]: Found new data pack file/bukkit, loading it automatically
+[14:40:29] [main/INFO]: Reloading ResourceManager: Default, Crafting+.zip, anti ghast grief v1.1.0.zip, armored elytra v1.0.3.zip, cauldron concrete v2.0.3.zip, chunk loaders v1.0.1.zip, custom nether portals v2.3.2.zip, double shulker shells v1.3.0.zip, dragon drops v1.3.0.zip, fast leaf decay v2.0.3.zip, graves v2.8.4.zip, more mob heads v2.9.2.zip, nether portal coords v1.1.0.zip, silence mobs v1.1.0.zip, timber v2.1.1.zip, unlock all recipes v2.0.1.zip, xp management v1.1.0.zip, bukkit
+[14:40:32] [Worker-Main-1/INFO]: Loaded 7 recipes
+[14:40:37] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[14:40:37] [Server thread/INFO]: Loading properties
+[14:40:37] [Server thread/INFO]: This server is running Paper version git-Paper-381 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: db0bff9)
+[14:40:37] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:40:37] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:40:37] [Server thread/INFO]: Default game type: SURVIVAL
+[14:40:37] [Server thread/INFO]: Generating keypair
+[14:40:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:40:37] [Server thread/INFO]: Using default channel type
+[14:40:38] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
+[14:40:38] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[14:40:39] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.7+9f3e795
+[14:40:40] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@2864aecd]
+[14:40:40] [Server thread/INFO]: [Essentials] Loading Essentials v2.19.1-dev+33-680d323
+[14:40:40] [Server thread/INFO]: [StaffPlus] Loading StaffPlus v3.3.6.0-RELEASE
+[14:40:40] [Server thread/INFO]: [Lifesteal-Smp-Plugin] Loading Lifesteal-Smp-Plugin v1.6.4.0
+[14:40:40] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:40:40] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.7+9f3e795
+[14:40:40] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[14:40:41] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[14:40:41] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_17_R1_2.PaperweightAdapter as the Bukkit adapter
+[14:40:44] [Server thread/INFO]: Preparing level "seasons"
+[14:40:45] [Server thread/INFO]: ---- Migration of old nether folder required ----
+[14:40:45] [Server thread/INFO]: Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your nether folder to a new location in order to operate correctly.
+[14:40:45] [Server thread/INFO]: We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
+[14:40:45] [Server thread/INFO]: Attempting to move seasons\DIM-1 to seasons_nether\DIM-1...
+[14:40:45] [Server thread/INFO]: Success! To restore nether in the future, simply move seasons_nether\DIM-1 to seasons\DIM-1
+[14:40:45] [Server thread/INFO]: ---- Migration of old nether folder complete ----
+[14:40:45] [Server thread/INFO]: ---- Migration of old the_end folder required ----
+[14:40:45] [Server thread/INFO]: Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your the_end folder to a new location in order to operate correctly.
+[14:40:45] [Server thread/INFO]: We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
+[14:40:45] [Server thread/INFO]: Attempting to move seasons\DIM1 to seasons_the_end\DIM1...
+[14:40:45] [Server thread/INFO]: Success! To restore the_end in the future, simply move seasons_the_end\DIM1 to seasons\DIM1
+[14:40:45] [Server thread/INFO]: ---- Migration of old the_end folder complete ----
+[14:40:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:40:46] [Server thread/INFO]: Time elapsed: 479 ms
+[14:40:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:40:46] [Server thread/INFO]: Time elapsed: 173 ms
+[14:40:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:40:46] [Server thread/INFO]: Time elapsed: 151 ms
+[14:40:46] [Server thread/INFO]: [Essentials] Enabling Essentials v2.19.1-dev+33-680d323
+[14:40:47] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[14:40:47] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[14:40:47] [Server thread/INFO]: [Essentials] Loaded 36837 items from items.json.
+[14:40:47] [Server thread/INFO]: [Essentials] Using locale en_AU
+[14:40:47] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[14:40:47] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[14:40:48] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[14:40:48] [Server thread/INFO]: [StaffPlus] Enabling StaffPlus v3.3.6.0-RELEASE
+[14:40:48] [Server thread/INFO]: [Staff+] Version protocol set to 'v1_17_R1'.
+[14:40:48] [Server thread/INFO]: [Staff+] Staff+ has been enabled! Initialization took 511ms.
+[14:40:48] [Server thread/INFO]: [Staff+] Plugin created by Shortninja continued by Qball.
+[14:40:48] [Server thread/INFO]: [Lifesteal-Smp-Plugin] Enabling Lifesteal-Smp-Plugin v1.6.4.0
+[14:40:53] [Server thread/ERROR]: [LSSMP] Could not check for updates as the server is down/not responding!
+[14:40:54] [Server thread/INFO]: Running delayed init tasks
+[14:40:54] [Server thread/INFO]: Done (17.396s)! For help, type "help"
+[14:40:54] [Server thread/INFO]: Timings Reset
+[14:40:54] [Craft Scheduler Thread - 2 - Essentials/INFO]: [Essentials] Fetching version information...
+[14:40:58] [Craft Scheduler Thread - 1 - StaffPlus/ERROR]: [StaffPlus] [STDERR] [SpigetUpdate] Invalid SemVer versions specified [3360-RELEASE] [3360]
+[14:40:58] [Craft Scheduler Thread - 1 - StaffPlus/WARN]: Nag author(s): '[Shortninja,Qball]' of 'StaffPlus' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[14:40:58] [Craft Scheduler Thread - 1 - StaffPlus/INFO]: [StaffPlus] You are using the latest version thanks
+[14:41:11] [Server thread/INFO]: Nothing changed. The player already is an operator
+[14:41:11] [Server thread/WARN]: UUID of added entity already exists: EntityArmorStand['Armor Stand'/153, uuid='a093751a-2c77-4658-9d5f-62ab4494bdaf', l='ServerLevel[seasons]', x=16562064.50, y=1000.00, z=-22242911.50, cpos=[1035129, -1390182], tl=0, v=false, rR=null]
+[14:41:12] [Server thread/WARN]: UUID of added entity already exists: EntityArmorStand['Armor Stand'/154, uuid='291dfbec-2b7b-4c2b-9899-f665ea53af5d', l='ServerLevel[seasons]', x=22068880.50, y=1000.00, z=-4185487.50, cpos=[1379305, -261593], tl=0, v=false, rR=null]
+[14:42:28] [User Authenticator #1/INFO]: UUID of player _UDO is 5728b760-b7c2-481d-9b10-b87c22f239d8
+[14:42:29] [Server thread/ERROR]: Tried to load unrecognized recipe: interactic:item_filter removed now.
+[14:42:29] [Server thread/ERROR]: Tried to load unrecognized recipe: interactic:item_filter removed now.
+[14:42:30] [Server thread/INFO]: _UDO joined the game
+[14:42:30] [Server thread/INFO]: _UDO[/127.0.0.1:51395] logged in with entity id 253 at ([seasons]239.18163940959454, 72.0, 177.8774194820881)
+[14:43:29] [Server thread/INFO]: _UDO has made the advancement [Stone Age]
+[14:43:44] [Server thread/INFO]: _UDO issued server command: /i sign
+[14:43:50] [Server thread/INFO]: _UDO issued server command: /i oak_sign
+[14:44:35] [pool-14-thread-1/ERROR]: [LSSMP] Could not check for updates as the server is down/not responding!
+[14:44:39] [Server thread/INFO]: _UDO has made the advancement [Getting an Upgrade]
+[14:45:59] [pool-14-thread-1/ERROR]: [LSSMP] Could not check for updates as the server is down/not responding!
+[14:46:02] [Server thread/INFO]: _UDO issued server command: /locatebiome minecraft:taiga
+[14:46:12] [Server thread/INFO]: _UDO issued server command: /tp @s 236 ~ 356
+[14:46:18] [Server thread/INFO]: _UDO issued server command: /tp _UDO 236 ~ 356
+[14:49:41] [Server thread/INFO]: _UDO has made the advancement [Suit Up]
+[14:50:50] [Server thread/WARN]: _UDO moved too quickly! 13.837546804897471,0.08692408821369213,-3.8207889889508806
+[14:50:59] [pool-14-thread-1/ERROR]: [LSSMP] Could not check for updates as the server is down/not responding!
+[14:51:53] [Server thread/INFO]: _UDO issued server command: /gmc
+[14:52:00] [Server thread/INFO]: _UDO issued server command: /gms
+[14:52:45] [Server thread/INFO]: _UDO has made the advancement [Monster Hunter]
+[14:53:00] [Server thread/INFO]: _UDO issued server command: /gmc
+[14:53:31] [Server thread/INFO]: _UDO issued server command: /i flint_and_steel
+[14:55:01] [Server thread/INFO]: _UDO issued server command: /gms
+[14:55:04] [Server thread/INFO]: _UDO issued server command: /gmc
+[14:55:18] [Server thread/INFO]: _UDO has made the advancement [Sweet Dreams]
+[14:55:59] [pool-14-thread-1/ERROR]: [LSSMP] Could not check for updates as the server is down/not responding!
+[14:57:38] [Server thread/INFO]: _UDO issued server command: /give @p fire
+[14:58:00] [Server thread/INFO]: _UDO issued server command: /gms
+[14:58:07] [Server thread/INFO]: _UDO burned to death
+[14:58:37] [Server thread/INFO]: _UDO lost connection: Disconnected
+[14:58:38] [Server thread/INFO]: _UDO left the game
+[14:58:50] [Server thread/INFO]: Stopping the server
+[14:58:50] [Server thread/INFO]: Stopping server
+[14:58:50] [Server thread/INFO]: [Lifesteal-Smp-Plugin] Disabling Lifesteal-Smp-Plugin v1.6.4.0
+[14:58:50] [Server thread/INFO]: [StaffPlus] Disabling StaffPlus v3.3.6.0-RELEASE
+[14:58:50] [Server thread/INFO]: [Staff+] Staff+ is now disabling!
+[14:58:50] [Server thread/INFO]: [Essentials] Disabling Essentials v2.19.1-dev+33-680d323
+[14:58:50] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.7+9f3e795
+[14:58:50] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[14:58:51] [Server thread/INFO]: Saving players
+[14:58:51] [Server thread/INFO]: Saving worlds
+[14:58:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[seasons]'/minecraft:overworld
+[14:58:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[seasons_nether]'/minecraft:the_nether
+[14:58:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[seasons_the_end]'/minecraft:the_end
+[14:58:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (seasons): All chunks are saved
+[14:58:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:58:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:58:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:58:52] [Server thread/INFO]: Flushing Chunk IO
+[14:58:52] [Server thread/INFO]: Closing Thread Pool
+[14:58:52] [Server thread/INFO]: Closing Server

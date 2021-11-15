@@ -1,0 +1,15 @@
+elimination:
+  spectate:
+    killerDisconnected: '&cYour killer has disconnected!'
+    shouldSpectate: true
+    killerNotOnline: '&cYour killer is not online so you are not allowed to spectate!'
+  bans:
+    broadcastBan: false
+    broadcastMessage: '&c%player% has lost all of it''s hearts and has been banned.'
+    banMessage: '&cYou been banned due to loosing all of your hearts, your last killer
+      was &4%player%'
+    shouldBan: false
+  shouldEliminate: true
+  scaleHealth: true
+  healthScale: 1.0
+  environmentStealsHearts: false

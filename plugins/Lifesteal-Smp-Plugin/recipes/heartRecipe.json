@@ -1,0 +1,18 @@
+{
+    "enabled": true,
+    "shaped": true,
+    "outputAmount": 1,
+    "recipe": [
+        "ODO",
+        "D D",
+        "ODO"
+    ],
+    "items": {
+        "O": {
+            "item": "minecraft:obsidian"
+        },
+        "D": {
+            "item": "minecraft:diamond_block"
+        }
+    }
+}

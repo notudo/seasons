@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1636952318114
+  login: 1636951351129
+money: '0'
+last-account-name: _UDO
+logoutlocation:
+  world: 7de7c430-23ff-435b-9761-f40b07146aa2
+  world-name: seasons
+  x: 337.359708784505
+  y: 67.0
+  z: 297.83356187654766
+  yaw: -167.42138671875
+  pitch: 26.611234664916992
+lastlocation:
+  world: 7de7c430-23ff-435b-9761-f40b07146aa2
+  world-name: seasons
+  x: 332.636454938508
+  y: 75.0
+  z: 166.30000001192093
+  yaw: 81.82315063476562
+  pitch: 12.40028190612793
